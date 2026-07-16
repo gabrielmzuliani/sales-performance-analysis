@@ -79,12 +79,33 @@ Seu mix de produtos é mais equilibrado entre categorias principais e complement
 
 Embora continue sendo um mercado estratégico devido à sua participação na receita, os resultados sugerem que novos investimentos devem priorizar ganhos de eficiência e aumento de participação antes da expansão acelerada.
 
+### Produtos
+Embora Raquetes representem a principal fonte de receita da empresa, essa categoria apresenta a menor margem de lucro entre os principais grupos de produtos (37,8%). Em contrapartida, categorias como Bolas, Vestuário, Cordas, Acessórios e Bolsas e Mochilas combinam margens significativamente superiores com participações relevantes nas vendas, contribuindo de forma importante para a rentabilidade da operação. Em conjunto, esses cinco principais grupos concentram 80,6% do faturamento da empresa, evidenciando que o desempenho do negócio está sustentado por um portfólio relativamente equilibrado entre categorias voltadas à geração de receita e categorias com maior potencial de geração de margem. Dessa forma, oportunidades de crescimento podem ser exploradas por meio do fortalecimento das categorias de maior rentabilidade, sem depender exclusivamente da expansão da categoria líder.
+
+| Categoria        | Participação da Receita | Margem de Lucro |
+|------------------|------------------------:|----------------:|
+| Raquetes         | 29%                     | 37,8%           |
+| Bolas            | 18%                     | 50%             |
+| Vestuário        | 13%                     | 49,5%           |
+| Calçados         | 12%                     | 40%             |
+| Bolas e Mochilas | 9%                      | 47%             |
+
+#### Categorias Consolidadas
+As categorias Raquetes e Bolas representam os principais pilares do faturamento da empresa. Juntas, elas concentram cerca de 47% do faturamento total da empresa, mas com características distintas: enquanto raquetes lideram a receita, com uma menor margem de lucro entre as principais categorias (37,8%), bolas combinam elevada participação nas vendas, com uma das maiores margens da empresa (50%), tornando-se uma categoria estratégica tanto para o crescimento quanto para a rentabilidade.
+
+#### Categorias complementares
+As categorias vestuário, calçados, bolsas e mochilas, cordas, acessórios e grips representam uma parcela relevante do faturamento e desempenham um papel complementar na estratégia da empresa. Embora individualmente possuam menor participação que as categorias consolidadas, a maioria apresenta margens de lucro superiores, contribuindo de forma significativa para a rentabilidade da operação. Esse comportamento indica que essas categorias podem ser exploradas por meio de estratégias de venda cruzada (cross-selling) e pela ampliação do mix de produtos em regiões onde já apresentam maior participação, aumentando o valor gerado por venda sem depender exclusivamente do crescimento das categorias líderes.
+
+#### Subcategorias
+A análise das subcategorias também mostra uma forte concentração dentro de cada grupo de produtos. Em Raquetes, a linha Profissional representa 89,1% das vendas da categoria. Em Vestuário, Camisetas, Polos e Jaquetas concentram 93,2% das vendas, enquanto em Bolsas e Mochilas as Raqueteiras representam 89,5%. Já a categoria Bolas apresenta uma distribuição mais equilibrada entre suas principais subcategorias, reduzindo a dependência de um único produto.
+
 # Conclusão
-A análise regional mostra que estratégias comerciais padronizadas tendem a limitar o potencial de crescimento da empresa.
+A análise regional mostra que estratégias comerciais padronizadas tendem a limitar o potencial de crescimento da empresa. Enquanto Sudeste e Sul devem concentrar esforços na otimização do mix de produtos e aumento do ticket médio, Norte e Centro-Oeste apresentam indicadores que justificam avaliar iniciativas de expansão comercial, apoiadas por sua combinação de alta margem e crescimento acelerado.
 
-Enquanto Sudeste e Sul devem concentrar esforços na otimização do mix de produtos e aumento do ticket médio, Norte e Centro-Oeste apresentam indicadores que justificam avaliar iniciativas de expansão comercial, apoiadas por sua combinação de alta margem e crescimento acelerado.
+Além disso, os resultados mostram que o portfólio da empresa apresenta um equilíbrio entre categorias voltadas à geração de receita e categorias voltadas à geração de margem. Enquanto Raquetes desempenham papel fundamental na sustentação do faturamento, categorias como Bolas e Vestuário apresentam maior potencial de geração de valor devido às suas margens superiores.
 
-
+# Recomendações
+Considerando os resultados da análise regional, recomenda-se adaptar a estratégia comercial ao perfil de consumo de cada mercado. Nas regiões onde Raquetes concentram grande parte do faturamento, ações de venda cruzada podem estimular categorias de maior margem, como Bolas, Vestuário e Bolsas e Mochilas. Já em regiões onde as categorias complementares possuem maior participação, estratégias voltadas à ampliação do mix de produtos podem aumentar a rentabilidade sem depender exclusivamente da expansão da categoria líder.
 
 
 
