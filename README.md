@@ -32,7 +32,9 @@ Em relação ao período anterior, foram observados os seguintes indicadores:
 
 O aumento da receita ocorreu praticamente na mesma proporção que o aumento do volume vendido, o que indica uma expansão consistente das operações. Ao mesmo tempo, o lucro apresentou um crescimento superior à receita, sugerindo que a empresa conseguiu preservar sua eficiência operacional ao mesmo diante do aumento dos custos.
 
-Esse comportamento indica que o crescimento observado não foi sustentado apenas pelo aumento das vendas, mas também pela capacidade de manter níveis saudáveis de rentabilidade.
+Além disso, o crescimento foi distribuído entre todas as regiões analisadas, sem registro de queda de faturamento em nenhuma delas, e ocorreu com poucas alterações no mix de produtos comercializados. A maior variação de participação entre as categorias foi de apenas 3 pontos percentuais, indicando que a expansão não dependeu de mudanças bruscas no portfólio, mas do fortalecimento das operações já existentes.
+
+Esse comportamento indica que o crescimento observado não foi sustentado apenas pelo aumento das vendas, mas também pela capacidade de manter níveis saudáveis de rentabilidade e uma estrutura comercial relativamente estável.
 
 No entanto, antes de direcionar novos investimentos, é importante compreender quais fatores sustentam esse crescimento. Identificar regiões e categorias responsáveis pelos melhores resultados permite definir estratégias comerciais mais eficientes e direcionar recursos para mercados com maior potencial de retorno.
 
@@ -55,6 +57,39 @@ Além disso, aproximadamente metade do faturamento da região está concentrada 
 Como consequência, o Sudeste deve ser tratado como um mercado consolidado, no qual estratégias voltadas à eficiência operacional, fidelização e aumento do ticket médio tendem a gerar melhores resultados do que iniciativas focadas apenas na expansão do volume de vendas.
 
 #### Sul
+Embora a região Sul represente 18% da receita, ela apresentou um comportamento menos estável durante o período analisado.
+
+Entre os meses de maio e julho, a receita ficou abaixo do observado no mesmo período do ano anterior (2023). A análise do mix de produtos mostra que, no ano de 2023, houve um pico de vendas de **Raquetes**, algo que não se repetiu no ano seguinte.
+
+Esse comportamento sugere uma maior dependência de oscilação em categorias específicas, tornando seu desempenho menos previsível do que o observado no Sudeste. Essa característica reforça a importância de estratégias que fortaleçam as categorias complementares, reduzindo a dependência de um único grupo de produto.
+
+#### Norte e Centro-Oeste
+Quando a análise foca no aumento de receita e margem de lucro, Norte e Centro-Oeste passam a se destacar.
+
+Embora represente apenas 4% da receita total da empresa, a região Norte apresentou a maior margem da empresa (49,4%) e o maior aumento de receita quando comparada ao período anterior (+122,39%). Esses indicadores sugerem um mercado em fase de expansão.
+
+O Centro-Oeste apresentou um comportamento semelhante, combinando uma margem elevada (47,8%) com crescimento expressivo (+69,27%), indicando um equilíbrio entre rentabilidade e expansão.
+
+Outro ponto em comum entre essas regiões é a maior participação de categorias complementares no faturamento, sugerindo um perfil diferente de consumo daquele observado nos mercados mais consolidados.
+
+#### Nordeste
+O Nordeste representa o terceiro maior mercado da empresa, porém, com um crescimento mais moderado (+18,18%) quando comparado às demais regiões.
+
+Seu mix de produtos é mais equilibrado entre categorias principais e complementares, indicando um comportamento intermediário em relação às demais regiões.
+
+Embora continue sendo um mercado estratégico devido à sua participação na receita, os resultados sugerem que novos investimentos devem priorizar ganhos de eficiência e aumento de participação antes da expansão acelerada.
+
+# Conclusão
+A análise regional mostra que estratégias comerciais padronizadas tendem a limitar o potencial de crescimento da empresa.
+
+Enquanto Sudeste e Sul devem concentrar esforços na otimização do mix de produtos e aumento do ticket médio, Norte e Centro-Oeste apresentam indicadores que justificam avaliar iniciativas de expansão comercial, apoiadas por sua combinação de alta margem e crescimento acelerado.
+
+
+
+
+
+
+
 
 
 
