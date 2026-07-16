@@ -99,6 +99,13 @@ As categorias vestuário, calçados, bolsas e mochilas, cordas, acessórios e gr
 #### Subcategorias
 A análise das subcategorias também mostra uma forte concentração dentro de cada grupo de produtos. Em Raquetes, a linha Profissional representa 89,1% das vendas da categoria. Em Vestuário, Camisetas, Polos e Jaquetas concentram 93,2% das vendas, enquanto em Bolsas e Mochilas as Raqueteiras representam 89,5%. Já a categoria Bolas apresenta uma distribuição mais equilibrada entre suas principais subcategorias, reduzindo a dependência de um único produto.
 
+# Principais achados
+* Crescimento sustentável.
+* Expansão em todas as regiões.
+* Norte e Centro-Oeste apresentam maior potencial de expansão.
+* Sudeste deve priorizar eficiência operacional.
+* O portfólio equilibra categorias geradoras de receita e categorias geradoras de margem.
+
 # Conclusão
 A análise regional mostra que estratégias comerciais padronizadas tendem a limitar o potencial de crescimento da empresa. Enquanto Sudeste e Sul devem concentrar esforços na otimização do mix de produtos e aumento do ticket médio, Norte e Centro-Oeste apresentam indicadores que justificam avaliar iniciativas de expansão comercial, apoiadas por sua combinação de alta margem e crescimento acelerado.
 
