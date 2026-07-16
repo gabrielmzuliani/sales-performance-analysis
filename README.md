@@ -10,14 +10,14 @@ As principais perguntas desenvolvidas no projeto estão listadas abaixo:
 * Quais regiões apresentam maior potencial de expansão?
 * Como otimizar o portfólio de produtos para aumentar a rentabilidade?
 
-Você pode realizar o download do dashboard interativo [aqui.]()
+Você pode realizar o download do dashboard interativo [aqui.](https://github.com/gabrielmzuliani/sales-performance-analysis/blob/main/Vertex%20-%20Xperiun.pbix)
 
 # Modelagem dos dados
 Depois das etapas de limpeza e organização dos dados, o modelo foi estruturado em três tabelas principais: fVendas (24.543 registros), dRegiões e dCategorias, além da tabela auxiliar dCalendário.
 
 <img width="767" height="395" alt="image" src="https://github.com/user-attachments/assets/fc56da6f-2e13-4bb0-bf82-c0f07a856338" />
 
-Toda a extração, limpeza e modelagem foram realizadas dentro do Power BI, que você encontra [aqui].()
+Toda a extração, limpeza e modelagem foram realizadas dentro do Power BI, que você encontra [aqui.](https://github.com/gabrielmzuliani/sales-performance-analysis/blob/main/Vertex%20-%20Xperiun.pbix)
 
 # Sumário Executivo
 ### Overview
